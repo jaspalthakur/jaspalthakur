@@ -57,7 +57,7 @@ Full-featured chat app with WebSockets, JWT auth, typing indicators, presence tr
 <tr>
 <td width="50%" valign="top">
 
-#### 🛍️ [ShopEasy](https://github.com/jaspalthakur/ecommerce-store)
+#### 🛍️ [ShopEasy](https://github.com/jaspalthakur/ecommerce_store)
 **Flask E-Commerce Store**
 
 Full-stack e-commerce with authentication, shopping cart, admin panel, order management, and responsive UI.
@@ -69,12 +69,13 @@ Full-stack e-commerce with authentication, shopping cart, admin panel, order man
 </td>
 <td width="50%" valign="top">
 
-#### 🔮 More Coming Soon
-**Next up on the roadmap**
+#### 💰 [Expense Tracker](https://github.com/jaspalthakur/Expense-Tracker-app-with-High-Security)
+**Secure Expense Tracking App**
 
-Always exploring new ideas in security tooling, cloud-native apps, and developer experience.
+High-security expense tracking application with robust authentication and financial data protection.
 
-![Open Source](https://img.shields.io/badge/Open_Source-💚-green?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/High_Security-green?style=flat)
 
 </td>
 </tr>
